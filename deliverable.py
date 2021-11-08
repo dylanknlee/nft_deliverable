@@ -43,7 +43,8 @@ image1, image2 = st.columns(2)
 
 # display cool GIFs
 with image1:
-    st.markdown("![](http://img.gawkerassets.com/img/193efpvys8ogwgif/ku-medium.gif)")
+    st.markdown("![](https://media.giphy.com/media/g99NuX1EAqe2s/giphy.gif)")
+    #st.markdown("![Alt Text](https://d9hhrg4mnvzow.cloudfront.net/on.wax.io/toppsmlb/0e5c1650-rare-gif.gif)")
 
 with image2:
     st.markdown("![](https://images.squarespace-cdn.com/content/v1/512cd3f8e4b087d8ea2c9220/1382022283162-PWBI8ACGTSPO481YPLU3/ku-medium.gif?format=500w)")
