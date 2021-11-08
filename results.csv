@@ -1,0 +1,11 @@
+,,BuyerId,SellerId,Weights
+Kruskal,0,fzfqu.wam,jp2b4.wam,51
+Kruskal,1,5e1rs.wam,vb2r.wam,43
+Kruskal,2,5e1rs.wam,dj4b2.wam,40
+Kruskal,3,jp2b4.wam,u1ibq.wam,40
+Kruskal,4,j2qau.wam,5e1rs.wam,37
+Prim,0,jp2b4.wam,fzfqu.wam,51
+Prim,1,5e1rs.wam,vb2r.wam,43
+Prim,2,5e1rs.wam,dj4b2.wam,40
+Prim,3,jp2b4.wam,u1ibq.wam,40
+Prim,4,j2qau.wam,5e1rs.wam,37
