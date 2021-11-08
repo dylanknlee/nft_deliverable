@@ -72,7 +72,7 @@ In the data table below provides a glimpse of the data we've worked with: each \
 row within the table features various aspects about a unique NFT."
 
 st.write(asset_text)
-st.write(pd.read_csv('assets.csv'))
+st.write(pd.read_csv('assets.csv').head())
 
 # ATOMIC MARKET API
 st.subheader("Atomic Market API: Tracking the Movement of Each NFT")
